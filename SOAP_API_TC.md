@@ -72,7 +72,7 @@ mvn clean test
 
 ---
 
-Author: **Vijay Kamisetty**
+🙋‍♂️ Author: Vijay Kamisetty
 💼 18+ Years QA Experience | Building API Testing Portfolio
 📧 ravindra.kamisetty@gmail.com
 🔗 https://www.linkedin.com/in/vijay-kamisetty 
