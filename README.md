@@ -23,6 +23,6 @@ It’s designed as a **portfolio project** to showcase expertise in **test case 
 | Reporting | Allure Reports / Extent Reports |
 | Documentation | Markdown, Confluence-style format |
 
-📊 **Reports**
-Allure Report for detailed execution summary
-Extent Report / HTML Report for easy sharing with stakeholders
+## 📊 Reports
+- Allure Report for detailed execution summary
+- Extent Report / HTML Report for easy sharing with stakeholders
